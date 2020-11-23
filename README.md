@@ -1,1 +1,1 @@
-# Sudokue-GUI
+# Sudoku-GUI
